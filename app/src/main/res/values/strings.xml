@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="my_text">qqq %s</string>
+    <string name="url">http://www.505.rs/adviator/index.php</string>
+
+    <string name="err_title">Ошибка</string>
+    <string name="OK">OK</string>
+</resources>
